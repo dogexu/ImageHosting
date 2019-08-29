@@ -8,6 +8,6 @@
   Then 
   
   Change the character in Url 
-  `blob`改为`raw`
+  `blob` to `raw`
   
   This is the truely image url
