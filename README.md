@@ -1,5 +1,5 @@
 # imagebed
-👾👾👾My image bed 
+👾👾👾My Image Hosting
 
 ----
 # How to use it
