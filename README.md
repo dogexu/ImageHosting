@@ -1,4 +1,4 @@
-# imagebed
+# IMAGE HOSTING
 👾👾👾My Image Hosting
 
 ----
